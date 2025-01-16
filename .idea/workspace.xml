@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca2f9aa-db10-4982-a555-f9c3804769ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/account-lockout-threshold.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password-complexity.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/root-admin-remote-restriction.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password-usage-maximum-period.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password-usage-minimum-period.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-timeout.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2rfZ5kfrQzb9llYfBZrnwWZQ9Jg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,12 +30,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/realt/OneDrive/바탕 화면/project/ubuntu-security",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/realt/OneDrive/바탕 화면/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\realt\OneDrive\바탕 화면\project" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736951909197</updated>
-      <workItem from="1736951910434" duration="164000" />
+      <workItem from="1736951910434" duration="318000" />
+      <workItem from="1737035592947" duration="1014000" />
     </task>
     <servers />
   </component>
